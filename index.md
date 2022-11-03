@@ -27,3 +27,7 @@
 ---
 
 # Trust in rust
+
+---
+
+# Bitcoin is good
