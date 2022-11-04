@@ -18,6 +18,10 @@
 
 ---
 
+# Bitcoin is good
+
+---
+
 # Make sure you enjoy the day-to-day
 
 ---
@@ -31,7 +35,3 @@
 ---
 
 # Trust in rust
-
----
-
-# Bitcoin is good
